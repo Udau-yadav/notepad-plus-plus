@@ -15,12 +15,12 @@
                     <Item menuId="file" name="&amp;फाईल"/>
                     <Item menuId="edit" name="&amp;एडिट"/>
                     <Item menuId="search" name="&amp;सर्च"/>
-                    <Item menuId="view" name="&amp;व्यू"/>
+                    <Item menuId="view" name="&amp;देखें"/>
                     <Item menuId="encoding" name="&amp;एन्कोडिंग"/>
                     <Item menuId="language" name="&amp;भाषा"/>
                     <Item menuId="settings" name="&amp;सेटिंग"/>
                     <Item menuId="macro" name="मेक्रो"/>
-                    <Item menuId="run" name="चलाये"/>
+                    <Item menuId="run" name="चलाएं"/>
                     <Item idName="Plugins" name="प्लगइन्स"/>
                     <Item idName="Window" name="विन्डों"/>
                 </Entries>
@@ -31,14 +31,14 @@
                     <Item subMenuId="edit-indent" name="इंडेन्ट"/>
                     <Item subMenuId="edit-convertCaseTo" name="कैस को एसे बदले"/>
                     <Item subMenuId="edit-lineOperations" name="लाईन ऑपरेशन"/>
-                    <Item subMenuId="edit-comment" name="कॉमेंट/कटाक्ष"/>
+                    <Item subMenuId="edit-comment" name="कॉमेंट"/>
                     <Item subMenuId="edit-autoCompletion" name="स्वचालित पूर्ति"/>
                     <Item subMenuId="edit-eolConversion" name="EOL कन्वर्जन"/>
 					<Item subMenuId="edit-blankOperations" name="ब्लैंक ऑपरेशन"/>
                     <Item subMenuId="search-markAll" name="सभी चिन्हित करे"/>
                     <Item subMenuId="search-unmarkAll" name="सभी चिन्ह निकाले"/>
-                    <Item subMenuId="search-jumpUp" name="ऊपर कूदे"/>
-                    <Item subMenuId="search-jumpDown" name="नीच कूदे"/>
+                    <Item subMenuId="search-jumpUp" name="ऊपर जांए"/>
+                    <Item subMenuId="search-jumpDown" name="नीच जांए"/>
                     <Item subMenuId="search-bookmark" name="बूकमार्क"/>
                     <Item subMenuId="view-showSymbol" name="चिन्ह दिखाये"/>
                     <Item subMenuId="view-zoom" name="बड़ा करे"/>
@@ -52,12 +52,12 @@
                     <Item subMenuId="encoding-cyrillic" name="सिरिलिक"/>
                     <Item subMenuId="encoding-centralEuropean" name="मध्य यूरोप"/>
                     <Item subMenuId="encoding-chinese" name="चाइनीज"/>
-                    <Item subMenuId="encoding-easternEuropean" name="पूर्वीय यूरोप"/>
+                    <Item subMenuId="encoding-easternEuropean" name="पूर्वी यूरोप"/>
                     <Item subMenuId="encoding-greek" name="ग्रीक"/>
                     <Item subMenuId="encoding-hebrew" name="हिब्रू"/>
-                    <Item subMenuId="encoding-japanese" name="जापानीस"/>
+                    <Item subMenuId="encoding-japanese" name="जापानी"/>
                     <Item subMenuId="encoding-korean" name="कोरियन"/>
-                    <Item subMenuId="encoding-northEuropean" name="ऊतर यूरोप"/>
+                    <Item subMenuId="encoding-northEuropean" name="उत्तरी यूरोप"/>
                     <Item subMenuId="encoding-thai" name="थाई"/>
                     <Item subMenuId="encoding-turkish" name="तुर्किश"/>
                     <Item subMenuId="encoding-westernEuropean" name="पश्चिम यूरोप"/>
